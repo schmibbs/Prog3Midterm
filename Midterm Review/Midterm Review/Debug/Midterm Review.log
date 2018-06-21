@@ -1,0 +1,11 @@
+﻿  j.c
+c:\users\joseph adams\source\repos\midterm review\midterm review\j.c(16): warning C4133: 'initializing': incompatible types - from 'void (__cdecl *)()' to 'int (__cdecl *)()'
+c:\users\joseph adams\source\repos\midterm review\midterm review\j.c(22): warning C4013: 'printf' undefined; assuming extern returning int
+c:\users\joseph adams\source\repos\midterm review\midterm review\j.c(23): warning C4013: 'getchar' undefined; assuming extern returning int
+  myStruct.c
+c:\users\joseph adams\source\repos\midterm review\midterm review\mystruct.c(20): warning C4047: 'return': 'char' differs in levels of indirection from 'char *'
+c:\users\joseph adams\source\repos\midterm review\midterm review\mystruct.c(60): warning C4013: 'print_reverse' undefined; assuming extern returning int
+c:\users\joseph adams\source\repos\midterm review\midterm review\mystruct.c(60): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+c:\users\joseph adams\source\repos\midterm review\midterm review\mystruct.c(62): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+  Generating Code...
+  Midterm Review.vcxproj -> C:\Users\Joseph Adams\source\repos\Midterm Review\Debug\Midterm Review.exe
